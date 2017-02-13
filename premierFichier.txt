@@ -1,2 +1,3 @@
 Mise en place de mon projet.
-bug
+Correction de bug en production
+correction de bug sur l'export.
