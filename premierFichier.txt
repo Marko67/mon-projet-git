@@ -1,2 +1,3 @@
 Mise en place de mon projet.
 correction de bug sur l'export.
+Nouvelle version pas encore validé
